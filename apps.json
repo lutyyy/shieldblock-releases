@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.5.0",
+          "buildVersion": "19",
+          "date": "2026-10-04T06:37:40Z",
+          "localizedDescription": "移除所有 GPL 元件：自寫進階規則引擎（1.5.0）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.5.0-19/ShieldBlock.ipa",
+          "size": 1313626,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.4.2",
           "buildVersion": "18",
           "date": "2026-10-04T06:10:25Z",
