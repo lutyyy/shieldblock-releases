@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.5.1",
+          "buildVersion": "21",
+          "date": "2026-10-04T07:01:37Z",
+          "localizedDescription": "修正每個網頁都空白：自行處理元素隱藏例外（1.5.1）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.5.1-21/ShieldBlock.ipa",
+          "size": 1320063,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.5.0",
           "buildVersion": "20",
           "date": "2026-10-04T06:37:45Z",
@@ -95,15 +104,6 @@
           "localizedDescription": "Info.plist 版本號改用 build settings，版本升為 1.1.0",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.1.0-11/ShieldBlock.ipa",
           "size": 1530287,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2026-10-04T02:46:54Z",
-          "localizedDescription": "發布步驟支援空的 releases repo",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.0-1/ShieldBlock.ipa",
-          "size": 1530283,
           "minOSVersion": "16.0"
         }
       ],
