@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.2.0",
+          "buildVersion": "12",
+          "date": "2026-10-04T05:00:38Z",
+          "localizedDescription": "設定精靈、保護狀態儀表板、統計圖表，版本 1.2.0",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.2.0-12/ShieldBlock.ipa",
+          "size": 1695540,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.1.0",
           "buildVersion": "11",
           "date": "2026-10-04T02:51:13Z",
