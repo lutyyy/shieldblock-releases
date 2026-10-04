@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.8.0",
+          "buildVersion": "25",
+          "date": "2026-10-04T13:46:28Z",
+          "localizedDescription": "家庭模式（兒童安全）（1.8.0）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.8.0-25/ShieldBlock.ipa",
+          "size": 1401419,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.7.0",
           "buildVersion": "24",
           "date": "2026-10-04T13:12:36Z",
@@ -95,15 +104,6 @@
           "localizedDescription": "M4a：Content Blocker 規則改用 adblock-rust（MPL-2.0）轉換",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.4.0-16/ShieldBlock.ipa",
           "size": 2436011,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "1.3.0",
-          "buildVersion": "15",
-          "date": "2026-10-04T05:21:51Z",
-          "localizedDescription": "Merge PR #1：ShieldBlock 1.3.0（完整過濾清單、進階防護、點選隱藏、網站快速暫停、SideStore 自動發布）",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.3.0-15/ShieldBlock.ipa",
-          "size": 1724395,
           "minOSVersion": "16.0"
         }
       ],
