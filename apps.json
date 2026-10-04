@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.4.2",
+          "buildVersion": "18",
+          "date": "2026-10-04T06:10:25Z",
+          "localizedDescription": "重新啟用 adblock-rust 轉換器（1.4.2 測試版）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.4.2-18/ShieldBlock.ipa",
+          "size": 2438950,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.4.1",
           "buildVersion": "17",
           "date": "2026-10-04T05:50:50Z",
