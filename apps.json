@@ -1,0 +1,38 @@
+{
+  "name": "ShieldBlock",
+  "identifier": "com.lutyyy.shieldblock.source",
+  "subtitle": "自用 Safari 擋廣告",
+  "iconURL": "https://raw.githubusercontent.com/lutyyy/shieldblock-releases/main/icon.png",
+  "tintColor": "#4F46E5",
+  "apps": [
+    {
+      "name": "ShieldBlock",
+      "bundleIdentifier": "com.lutyyy.shieldblock",
+      "developerName": "lutyyy",
+      "subtitle": "Safari 擋廣告與彈窗攔截",
+      "localizedDescription": "四個 Content Blocker 加上進階防護（元素隱藏、腳本規則、彈出視窗攔截），在手機上下載並轉換 AdGuard、EasyList、HaGeZi 等過濾清單。",
+      "iconURL": "https://raw.githubusercontent.com/lutyyy/shieldblock-releases/main/icon.png",
+      "tintColor": "#4F46E5",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-10-04T02:46:54Z",
+          "localizedDescription": "發布步驟支援空的 releases repo",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.0-1/ShieldBlock.ipa",
+          "size": 1530283,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
