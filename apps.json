@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.8.1",
+          "buildVersion": "26",
+          "date": "2026-10-04T14:06:06Z",
+          "localizedDescription": "DNS 描述檔可儲存到「檔案」安裝（1.8.1）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.8.1-26/ShieldBlock.ipa",
+          "size": 1406649,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.8.0",
           "buildVersion": "25",
           "date": "2026-10-04T13:46:28Z",
@@ -95,15 +104,6 @@
           "localizedDescription": "暫時改回 AdGuard 轉換器（1.4.1）：1.4.0 實機網頁整片空白",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.4.1-17/ShieldBlock.ipa",
           "size": 1894069,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "1.4.0",
-          "buildVersion": "16",
-          "date": "2026-10-04T05:29:53Z",
-          "localizedDescription": "M4a：Content Blocker 規則改用 adblock-rust（MPL-2.0）轉換",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.4.0-16/ShieldBlock.ipa",
-          "size": 2436011,
           "minOSVersion": "16.0"
         }
       ],
