@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.0.0",
+          "buildVersion": "27",
+          "date": "2026-10-04T14:18:59Z",
+          "localizedDescription": "新介面、App 內開關與 Pro 架構（2.0.0）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.0.0-27/ShieldBlock.ipa",
+          "size": 1495922,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.8.1",
           "buildVersion": "26",
           "date": "2026-10-04T14:06:06Z",
@@ -95,15 +104,6 @@
           "localizedDescription": "重新啟用 adblock-rust 轉換器（1.4.2 測試版）",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.4.2-18/ShieldBlock.ipa",
           "size": 2438950,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "1.4.1",
-          "buildVersion": "17",
-          "date": "2026-10-04T05:50:50Z",
-          "localizedDescription": "暫時改回 AdGuard 轉換器（1.4.1）：1.4.0 實機網頁整片空白",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.4.1-17/ShieldBlock.ipa",
-          "size": 1894069,
           "minOSVersion": "16.0"
         }
       ],
