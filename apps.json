@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.12.0",
+          "buildVersion": "44",
+          "date": "2026-10-05T15:26:46Z",
+          "localizedDescription": "第一批 UI 優化：升級 Pro、統計、全裝置攔截（2.12.0）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.12.0-44/ShieldBlock.ipa",
+          "size": 1821300,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "2.11.0",
           "buildVersion": "43",
           "date": "2026-10-05T15:20:45Z",
@@ -95,15 +104,6 @@
           "localizedDescription": "遠端規則與緊急修正清單（2.4.0）",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.4.0-33/ShieldBlock.ipa",
           "size": 1553133,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "2.3.0",
-          "buildVersion": "31",
-          "date": "2026-10-05T13:23:37Z",
-          "localizedDescription": "Merge pull request #3 from lutyyy/claude/ui-pro",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.3.0-31/ShieldBlock.ipa",
-          "size": 1551132,
           "minOSVersion": "16.0"
         }
       ],
