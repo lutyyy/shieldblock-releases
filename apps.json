@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.11.0",
+          "buildVersion": "43",
+          "date": "2026-10-05T15:20:45Z",
+          "localizedDescription": "「功能」「設定」分頁改用彩色方塊圖示（2.11.0）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.11.0-43/ShieldBlock.ipa",
+          "size": 1751853,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "2.10.0",
           "buildVersion": "42",
           "date": "2026-10-05T15:20:38Z",
@@ -95,15 +104,6 @@
           "localizedDescription": "Merge pull request #3 from lutyyy/claude/ui-pro",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.3.0-31/ShieldBlock.ipa",
           "size": 1551132,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "2.3.0",
-          "buildVersion": "30",
-          "date": "2026-10-05T01:08:01Z",
-          "localizedDescription": "DNS 例外網域與找出被擋網域的教學（2.3.0）",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.3.0-30/ShieldBlock.ipa",
-          "size": 1551143,
           "minOSVersion": "16.0"
         }
       ],
