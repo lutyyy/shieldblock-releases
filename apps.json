@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.17.0",
+          "buildVersion": "50",
+          "date": "2026-10-05T23:41:22Z",
+          "localizedDescription": "新增遠端緊急修正與邀請評分（2.17.0）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.17.0-50/ShieldBlock.ipa",
+          "size": 1994128,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "2.16.1",
           "buildVersion": "49",
           "date": "2026-10-05T16:07:56Z",
@@ -95,15 +104,6 @@
           "localizedDescription": "小工具改版：圓環、連續保護天數、網站排行（2.9.0）",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.9.0-41/ShieldBlock.ipa",
           "size": 1728118,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "2.8.2",
-          "buildVersion": "40",
-          "date": "2026-10-05T15:02:48Z",
-          "localizedDescription": "防詐騙警告不再被舊快取擋住（2.8.2）",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.8.2-40/ShieldBlock.ipa",
-          "size": 1707188,
           "minOSVersion": "16.0"
         }
       ],
