@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.4.0",
+          "buildVersion": "33",
+          "date": "2026-10-05T13:25:58Z",
+          "localizedDescription": "遠端規則與緊急修正清單（2.4.0）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.4.0-33/ShieldBlock.ipa",
+          "size": 1553133,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "2.3.0",
           "buildVersion": "31",
           "date": "2026-10-05T13:23:37Z",
@@ -95,15 +104,6 @@
           "localizedDescription": "全裝置 DNS 攔截（1.6.0）",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.6.0-23/ShieldBlock.ipa",
           "size": 1373353,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "1.5.1",
-          "buildVersion": "22",
-          "date": "2026-10-04T07:23:26Z",
-          "localizedDescription": "Merge PR #2：M4 移除所有 GPL 元件（ShieldBlock 1.5.1）",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.5.1-22/ShieldBlock.ipa",
-          "size": 1320071,
           "minOSVersion": "16.0"
         }
       ],
