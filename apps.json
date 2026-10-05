@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.3.0",
+          "buildVersion": "30",
+          "date": "2026-10-05T01:08:01Z",
+          "localizedDescription": "DNS 例外網域與找出被擋網域的教學（2.3.0）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.3.0-30/ShieldBlock.ipa",
+          "size": 1551143,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "2.2.0",
           "buildVersion": "29",
           "date": "2026-10-04T15:19:32Z",
@@ -95,15 +104,6 @@
           "localizedDescription": "修正每個網頁都空白：自行處理元素隱藏例外（1.5.1）",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.5.1-21/ShieldBlock.ipa",
           "size": 1320063,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "1.5.0",
-          "buildVersion": "20",
-          "date": "2026-10-04T06:37:45Z",
-          "localizedDescription": "忽略 __pycache__",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.5.0-20/ShieldBlock.ipa",
-          "size": 1313608,
           "minOSVersion": "16.0"
         }
       ],
