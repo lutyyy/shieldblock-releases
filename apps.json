@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.13.0",
+          "buildVersion": "45",
+          "date": "2026-10-05T15:31:28Z",
+          "localizedDescription": "第二批 UI 優化：家庭模式、規則、過濾清單、白名單、已隱藏元素（2.13.0）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.13.0-45/ShieldBlock.ipa",
+          "size": 1898465,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "2.12.0",
           "buildVersion": "44",
           "date": "2026-10-05T15:26:46Z",
@@ -95,15 +104,6 @@
           "localizedDescription": "防詐騙保護（2.4.0）",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.4.0-34/ShieldBlock.ipa",
           "size": 1568117,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "2.4.0",
-          "buildVersion": "33",
-          "date": "2026-10-05T13:25:58Z",
-          "localizedDescription": "遠端規則與緊急修正清單（2.4.0）",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.4.0-33/ShieldBlock.ipa",
-          "size": 1553133,
           "minOSVersion": "16.0"
         }
       ],
