@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.8.2",
+          "buildVersion": "40",
+          "date": "2026-10-05T15:02:48Z",
+          "localizedDescription": "防詐騙警告不再被舊快取擋住（2.8.2）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.8.2-40/ShieldBlock.ipa",
+          "size": 1707188,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "2.8.1",
           "buildVersion": "39",
           "date": "2026-10-05T14:59:48Z",
@@ -95,15 +104,6 @@
           "localizedDescription": "介面質感改版（2.1.0）",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.1.0-28/ShieldBlock.ipa",
           "size": 1540865,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "2.0.0",
-          "buildVersion": "27",
-          "date": "2026-10-04T14:18:59Z",
-          "localizedDescription": "新介面、App 內開關與 Pro 架構（2.0.0）",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.0.0-27/ShieldBlock.ipa",
-          "size": 1495922,
           "minOSVersion": "16.0"
         }
       ],
