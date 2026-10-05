@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "2.3.0",
+          "buildVersion": "31",
+          "date": "2026-10-05T13:23:37Z",
+          "localizedDescription": "Merge pull request #3 from lutyyy/claude/ui-pro",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.3.0-31/ShieldBlock.ipa",
+          "size": 1551132,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "2.3.0",
           "buildVersion": "30",
           "date": "2026-10-05T01:08:01Z",
           "localizedDescription": "DNS 例外網域與找出被擋網域的教學（2.3.0）",
@@ -95,15 +104,6 @@
           "localizedDescription": "Merge PR #2：M4 移除所有 GPL 元件（ShieldBlock 1.5.1）",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.5.1-22/ShieldBlock.ipa",
           "size": 1320071,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "1.5.1",
-          "buildVersion": "21",
-          "date": "2026-10-04T07:01:37Z",
-          "localizedDescription": "修正每個網頁都空白：自行處理元素隱藏例外（1.5.1）",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.5.1-21/ShieldBlock.ipa",
-          "size": 1320063,
           "minOSVersion": "16.0"
         }
       ],
