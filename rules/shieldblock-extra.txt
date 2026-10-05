@@ -1,0 +1,3 @@
+! Title: ShieldBlock 補充規則
+! Description: 瀏覽器清單未收錄、但 DNS 層級清單會擋的廣告網域
+||adservice.google.com^$third-party

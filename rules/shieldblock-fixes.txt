@@ -1,0 +1,5 @@
+! Title: ShieldBlock 緊急修正
+! Description: 放行被誤擋的網站或 App，套用到所有分類。推到 main 後由 sync-rules 同步到公開 repo，手機下次更新規則時生效。
+! 範例：
+!   @@||example.com^$document      整個網站不擋
+!   example.com#@#.some-banner     在 example.com 不隱藏這個元素
