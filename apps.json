@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.5.0",
+          "buildVersion": "35",
+          "date": "2026-10-05T14:32:46Z",
+          "localizedDescription": "主畫面／鎖定畫面小工具、顯示防詐騙資料庫狀態（2.5.0）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.5.0-35/ShieldBlock.ipa",
+          "size": 1643316,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "2.4.0",
           "buildVersion": "34",
           "date": "2026-10-05T14:18:08Z",
@@ -95,15 +104,6 @@
           "localizedDescription": "家庭模式（兒童安全）（1.8.0）",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.8.0-25/ShieldBlock.ipa",
           "size": 1401419,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "1.7.0",
-          "buildVersion": "24",
-          "date": "2026-10-04T13:12:36Z",
-          "localizedDescription": "網頁小幫手：解除禁止複製、深色模式、自動拒絕 Cookie（1.7.0）",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.7.0-24/ShieldBlock.ipa",
-          "size": 1376508,
           "minOSVersion": "16.0"
         }
       ],
