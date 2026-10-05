@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.15.0",
+          "buildVersion": "47",
+          "date": "2026-10-05T15:51:41Z",
+          "localizedDescription": "防詐騙資料改合併 165「遭停止解析涉詐網站」，約 12 萬個網站（2.15.0）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.15.0-47/ShieldBlock.ipa",
+          "size": 1946715,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "2.14.0",
           "buildVersion": "46",
           "date": "2026-10-05T15:43:34Z",
@@ -95,15 +104,6 @@
           "localizedDescription": "小工具分免費／Pro：免費顯示漏掉的彈窗與詐騙、Pro 金色外觀與大型 7 天報表；修正編譯錯誤（2.8.0）",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.8.0-38/ShieldBlock.ipa",
           "size": 1704464,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "2.5.0",
-          "buildVersion": "35",
-          "date": "2026-10-05T14:32:46Z",
-          "localizedDescription": "主畫面／鎖定畫面小工具、顯示防詐騙資料庫狀態（2.5.0）",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.5.0-35/ShieldBlock.ipa",
-          "size": 1643316,
           "minOSVersion": "16.0"
         }
       ],
