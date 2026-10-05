@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.10.0",
+          "buildVersion": "42",
+          "date": "2026-10-05T15:20:38Z",
+          "localizedDescription": "主畫面改成 iOS 原生簡潔風格（2.10.0）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.10.0-42/ShieldBlock.ipa",
+          "size": 1751548,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "2.9.0",
           "buildVersion": "41",
           "date": "2026-10-05T15:09:39Z",
@@ -95,15 +104,6 @@
           "localizedDescription": "DNS 例外網域與找出被擋網域的教學（2.3.0）",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.3.0-30/ShieldBlock.ipa",
           "size": 1551143,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "2.2.0",
-          "buildVersion": "29",
-          "date": "2026-10-04T15:19:32Z",
-          "localizedDescription": "Safari 選單改版（2.2.0）",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.2.0-29/ShieldBlock.ipa",
-          "size": 1542304,
           "minOSVersion": "16.0"
         }
       ],
