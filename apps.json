@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.16.1",
+          "buildVersion": "49",
+          "date": "2026-10-05T16:07:56Z",
+          "localizedDescription": "Safari 選單說明「在此網站擋廣告」關閉就是加入白名單（2.16.1）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.16.1-49/ShieldBlock.ipa",
+          "size": 1972702,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "2.16.0",
           "buildVersion": "48",
           "date": "2026-10-05T15:56:42Z",
@@ -95,15 +104,6 @@
           "localizedDescription": "防詐騙警告不再被舊快取擋住（2.8.2）",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.8.2-40/ShieldBlock.ipa",
           "size": 1707188,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "2.8.1",
-          "buildVersion": "39",
-          "date": "2026-10-05T14:59:48Z",
-          "localizedDescription": "防詐騙資料庫下載失敗時自動重試（2.8.1）",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.8.1-39/ShieldBlock.ipa",
-          "size": 1707100,
           "minOSVersion": "16.0"
         }
       ],
