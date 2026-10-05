@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "2.4.0",
+          "buildVersion": "34",
+          "date": "2026-10-05T14:18:08Z",
+          "localizedDescription": "防詐騙保護（2.4.0）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.4.0-34/ShieldBlock.ipa",
+          "size": 1568117,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "2.4.0",
           "buildVersion": "33",
           "date": "2026-10-05T13:25:58Z",
           "localizedDescription": "遠端規則與緊急修正清單（2.4.0）",
@@ -95,15 +104,6 @@
           "localizedDescription": "網頁小幫手：解除禁止複製、深色模式、自動拒絕 Cookie（1.7.0）",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.7.0-24/ShieldBlock.ipa",
           "size": 1376508,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "1.6.0",
-          "buildVersion": "23",
-          "date": "2026-10-04T07:27:37Z",
-          "localizedDescription": "全裝置 DNS 攔截（1.6.0）",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v1.6.0-23/ShieldBlock.ipa",
-          "size": 1373353,
           "minOSVersion": "16.0"
         }
       ],
