@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.14.0",
+          "buildVersion": "46",
+          "date": "2026-10-05T15:43:34Z",
+          "localizedDescription": "第三批 UI 優化：網頁小幫手、關於、設定精靈、Safari 彈出視窗（2.14.0）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.14.0-46/ShieldBlock.ipa",
+          "size": 1935125,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "2.13.0",
           "buildVersion": "45",
           "date": "2026-10-05T15:31:28Z",
@@ -95,15 +104,6 @@
           "localizedDescription": "主畫面／鎖定畫面小工具、顯示防詐騙資料庫狀態（2.5.0）",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.5.0-35/ShieldBlock.ipa",
           "size": 1643316,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "2.4.0",
-          "buildVersion": "34",
-          "date": "2026-10-05T14:18:08Z",
-          "localizedDescription": "防詐騙保護（2.4.0）",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.4.0-34/ShieldBlock.ipa",
-          "size": 1568117,
           "minOSVersion": "16.0"
         }
       ],
