@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.19.1",
+          "buildVersion": "54",
+          "date": "2026-10-06T11:26:16Z",
+          "localizedDescription": "升級頁關閉按鈕改成 iOS 26 圓形 ✕（2.19.1）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.19.1-54/ShieldBlock.ipa",
+          "size": 2029128,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "2.19.0",
           "buildVersion": "53",
           "date": "2026-10-06T10:58:51Z",
@@ -95,15 +104,6 @@
           "localizedDescription": "第一批 UI 優化：升級 Pro、統計、全裝置攔截（2.12.0）",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.12.0-44/ShieldBlock.ipa",
           "size": 1821300,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "2.11.0",
-          "buildVersion": "43",
-          "date": "2026-10-05T15:20:45Z",
-          "localizedDescription": "「功能」「設定」分頁改用彩色方塊圖示（2.11.0）",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.11.0-43/ShieldBlock.ipa",
-          "size": 1751853,
           "minOSVersion": "16.0"
         }
       ],
