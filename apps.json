@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.18.0",
+          "buildVersion": "51",
+          "date": "2026-10-06T10:50:49Z",
+          "localizedDescription": "上架準備：只支援 iPhone、隱私清單、加密宣告、App Store 版隱藏開發者選項（2.18.0）",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.18.0-51/ShieldBlock.ipa",
+          "size": 1998783,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "2.17.0",
           "buildVersion": "50",
           "date": "2026-10-05T23:41:22Z",
@@ -95,15 +104,6 @@
           "localizedDescription": "主畫面改成 iOS 原生簡潔風格（2.10.0）",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.10.0-42/ShieldBlock.ipa",
           "size": 1751548,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "2.9.0",
-          "buildVersion": "41",
-          "date": "2026-10-05T15:09:39Z",
-          "localizedDescription": "小工具改版：圓環、連續保護天數、網站排行（2.9.0）",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.9.0-41/ShieldBlock.ipa",
-          "size": 1728118,
           "minOSVersion": "16.0"
         }
       ],
