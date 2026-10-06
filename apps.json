@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.19.0",
+          "buildVersion": "53",
+          "date": "2026-10-06T10:58:51Z",
+          "localizedDescription": "修正同時發布兩個版本時 SideStore 來源推送衝突與排序",
+          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.19.0-53/ShieldBlock.ipa",
+          "size": 2028560,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "2.18.0",
           "buildVersion": "51",
           "date": "2026-10-06T10:50:49Z",
@@ -95,15 +104,6 @@
           "localizedDescription": "「功能」「設定」分頁改用彩色方塊圖示（2.11.0）",
           "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.11.0-43/ShieldBlock.ipa",
           "size": 1751853,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "2.10.0",
-          "buildVersion": "42",
-          "date": "2026-10-05T15:20:38Z",
-          "localizedDescription": "主畫面改成 iOS 原生簡潔風格（2.10.0）",
-          "downloadURL": "https://github.com/lutyyy/shieldblock-releases/releases/download/v2.10.0-42/ShieldBlock.ipa",
-          "size": 1751548,
           "minOSVersion": "16.0"
         }
       ],
